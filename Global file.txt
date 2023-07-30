@@ -1,3 +1,2 @@
 This is my global file
 Second time edit
-Third time edit in global
